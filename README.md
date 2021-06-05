@@ -1,3 +1,5 @@
+# Math Behind Moneyball with Python
+
 [![author](https://img.shields.io/badge/author-jplavorr-black.svg)](https://www.linkedin.com/in/joão-pedro-lavor-65162312b/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/)  [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/jplavorr)
 
 <p align="center">
@@ -5,7 +7,7 @@
 </p>
 
 
-# Math-Behind-Moneyball-with-Python
+
 In this repository I will start a series, based on Coursera's 'Math Behind Moneyball' course (which is about Data Science in sports). I will reproduce the content seen in the course using Python and drawing conclusions from the data.
 
 **Background in:** Mathematics, Python, Machine Learning and Applied Math.
